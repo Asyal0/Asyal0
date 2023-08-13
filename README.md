@@ -1,5 +1,8 @@
 ## Olá Devs! Eu sou a Láysa :wave:
 
+<img  rigth="Rigth" alt=Asyal-crew height="80em" width="90px" src= 
+"https://discord.com/channels/1107854622288253010/1107854622938386566/1139660403564093580">
+
 - 🌱 Hoje estudando Front End 
 - 😄 Pronomes: Ela/Dela 
 
