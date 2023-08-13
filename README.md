@@ -1,10 +1,11 @@
 ## Olá Devs! Eu sou a Láysa :wave:
 
-<img  rigth="Rigth" alt=Asyal-crew height="80em" width="90px" src= 
-"https://discord.com/channels/1107854622288253010/1107854622938386566/1139660403564093580">
+![Texto alternativo](https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true)
 
-- 🌱 Hoje estudando Front End 
-- 😄 Pronomes: Ela/Dela 
+##
+
+- ✍️ Estudando Front End
+- ✨ Pronomes: Ela/Dela 
 
 <div align="left">
   <img height="180em"  width=400px src="https://github-readme-stats.vercel.app/api?username=Asyal0&show_icons=true&theme=radical"> 
