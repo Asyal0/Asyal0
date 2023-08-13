@@ -1,6 +1,6 @@
 ## Olá Devs! Eu sou a Láysa :wave:
 
-![Texto alternativo](https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true)
+![Texto alternativo](https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true) 
 
 ##
 
