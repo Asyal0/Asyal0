@@ -17,7 +17,6 @@
     <img align="right" alt="Asyal.gif" height="90" width="100"
 src="https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true">
   </div>
-  <div>
    
 
 ##
