@@ -1,9 +1,5 @@
 ## Olá Devs! Eu sou a Láysa :wave:
 
-![Texto alternativo](https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true) 
-
-##
-
 - ✍️ Estudando Front End
 - ✨ Pronomes: Ela/Dela 
 
@@ -19,9 +15,12 @@
     <img align="center" alt="Asyal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Asyal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Asyal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="right" alt="Asyal.gif" height="90" width="100"
+src="https://github.com/Asyal0/Asyal0/blob/main/asyal.gif?raw=true">
   </div>
   <div>
    
+
 ##
 
 <div>
